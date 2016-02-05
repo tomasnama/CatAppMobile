@@ -3,6 +3,6 @@
       <title>Initial Redirect Page</title>
    </head>
    <body>
-      <% response.sendRedirect("welcome.jsf"); %>
+      <% response.sendRedirect("home.jsf"); %>
    <body>
 </html>
